@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "awesome-mcode-local-skill",
+  "version": "0.2.0",
+  "description": "Four project skills from the awesome-mcode starter: project-onboarding, code-review, git-workflow, daily-standup. Bundles the local-only workflow starters in a portable package for any mcode install.",
+  "author": {
+    "name": "BoozeLee"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/BoozeLee/awesome-mcode",
+  "repository": "https://github.com/BoozeLee/awesome-mcode",
+  "keywords": [
+    "awesome-mcode",
+    "starter",
+    "productivity",
+    "git",
+    "code-review",
+    "onboarding",
+    "standup"
+  ]
+}
